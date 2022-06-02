@@ -1,5 +1,3 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <h1>Nuxtv3 app.</h1>
 </template>
